@@ -1,6 +1,6 @@
 # Hello, I'm Amit Chandra! 👋
 
-I'm a passionate software engineer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
+I'm a passionate Python Developer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
 
 ## 🚀 About Me
 
@@ -36,6 +36,7 @@ You can find me on:
 
 - 📧 Email: ask.amitchandra@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/connect-amit-chandra/
+- Replit: https://replit.com/@Amit-Chandra
 
 Feel free to connect, collaborate, or just say hi. I'm always open to interesting discussions and opportunities!
 
