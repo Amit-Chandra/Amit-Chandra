@@ -36,6 +36,8 @@ You can find me on:
 
 - 📧 Email: ask.amitchandra@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/connect-amit-chandra/
+- HackerRank: https://www.hackerrank.com/profile/amitchandra
+- Leetcode: https://leetcode.com/Amit-Chandra/
 - Replit: https://replit.com/@Amit-Chandra
 
 Feel free to connect, collaborate, or just say hi. I'm always open to interesting discussions and opportunities!
