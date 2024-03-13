@@ -1,9 +1,4 @@
 ![Snake animation]
-(https://github.com/{{Amit-Chandra}}/{{Amit-Chandra}}/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 # Hello, I'm Amit Chandra! 👋
 
 I'm a passionate Python Developer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
