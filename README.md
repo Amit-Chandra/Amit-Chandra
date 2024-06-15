@@ -4,7 +4,7 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 
 ## 🚀 About Me
 
-- 🌍 I'm based in Noida, UP, India.
+- 🌍 I'm based in Gudgaon, Haryana, India.
 - 💼 I work as a Python Developer at Vervebot INC.
 - 🌱 I'm constantly learning and improving my skills in Full Stack Development.
 - 🎓 I hold a degree in B.tech (Computer Science & Engineering) from AKTU.
