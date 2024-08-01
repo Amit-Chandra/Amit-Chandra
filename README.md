@@ -28,7 +28,16 @@ In Process.
 
 Here are a few projects I'm proud of:
 
-In process.
+1. https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction
+2. https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India
+3. https://github.com/Amit-Chandra/E-Commerce-Data-Analysis
+4. https://github.com/Amit-Chandra/ChatBot
+5. https://github.com/Amit-Chandra/NFL-Football-Stats-Explorer
+6. https://github.com/Amit-Chandra/Snake-Game
+7. https://github.com/Amit-Chandra/Brick-Breaker
+8. https://github.com/Amit-Chandra/DataAnalysisOfYoutubeTrendingVideoStatistics
+9. https://github.com/Amit-Chandra/Pong-Game
+10. https://github.com/Amit-Chandra/Social-Media-Dashboard
 
 ## 📫 How to Reach Me
 
