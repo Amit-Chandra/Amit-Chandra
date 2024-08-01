@@ -28,7 +28,7 @@ In Process.
 
 Here are a few projects I'm proud of:
 
-1. https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction
+1. [Bank Customer Churn Prediction](https://github.com/Amit-Chandra/Bank-Customer-Churn-Prediction)
 2. https://github.com/Amit-Chandra/Data-Analysis-Import-Export-Of-India
 3. https://github.com/Amit-Chandra/E-Commerce-Data-Analysis
 4. https://github.com/Amit-Chandra/ChatBot
