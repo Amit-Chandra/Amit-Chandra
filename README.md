@@ -16,7 +16,7 @@ I'm experienced with a wide range of technologies and tools, including but not l
 
 - Programming Languages: Python, Flask, C
 - Web Development: HTML, CSS, JavaScript
-- Databases: MySQL, AWS Dynamo DB, Mongo DB
+- Databases: MySQL, AWS Dynamo DB, Mongo DB, Postgresql
 - DevOps & Tools: AWS Lambda, Git, Docker
 - Miscellaneous: NodeJS
 
