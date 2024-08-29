@@ -1,7 +1,3 @@
-
-[![GitHub Snake Light](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Platane/snk#gh-light-mode-only)
-
-
 # Hello, I'm Amit Chandra! 👋
 
 I'm a passionate Python Developer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
