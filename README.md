@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Amit-Chandra/Amit-Chandra/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
 <p align="center">
@@ -68,9 +72,5 @@ Feel free to connect, collaborate, or just say hi. I'm always open to interestin
 ## ❤️ Open Source Contributions
 
 I'm a strong advocate for open source and have contributed to various projects. If you have any interesting open source projects, don't hesitate to reach out. I'd love to collaborate.
-
-<p align="center">
-  <img src="https://github.com/Amit-Chandra/Amit-Chandra/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
 
 Thanks for visiting my GitHub profile! 😊
