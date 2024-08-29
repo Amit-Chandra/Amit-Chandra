@@ -1,5 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amit-Chandra&theme=monokai&row=1&column=6" alt="Trophies" />
+</p>
 
 # Hello, I'm Amit Chandra! 👋
 
@@ -10,22 +13,28 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 - 🌍 I'm based in New Delhi, India.
 - 💼 I work as a Python Developer at Vervebot INC.
 - 🌱 I'm constantly learning and improving my skills in Data Science.
-- 🎓 I hold a degree in B.tech (Computer Science & Engineering) from AKTU.
+- 🎓 I hold a degree in B.Tech (Computer Science & Engineering) from AKTU.
 - 😄 Pronouns: He/Him
 
 ## 🔧 Technologies & Tools
 
-I'm experienced with a wide range of technologies and tools, including but not limited to:
-
-- Programming Languages: Python, Flask, C
-- Web Development: HTML, CSS, JavaScript
-- Databases: MySQL, AWS Dynamo DB, Mongo DB, Postgresql
-- DevOps & Tools: AWS Lambda, Git, Docker
-- Miscellaneous: NodeJS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,c,html,css,javascript,mysql,aws,dynamodb,mongodb,postgresql,docker,git,nodejs&theme=dark" alt="Tech Stack" />
+</p>
 
 ## 🌟 GitHub Stats
 
-In Process.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Chandra&show_icons=true&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Chandra&theme=dark&background=0d1117&border=ffffff&fire=ff3860&currStreakLabel=ff3860" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Chandra&layout=compact&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff" alt="Top Languages" />
+</p>
 
 ## 📚 My Projects
 
@@ -48,11 +57,11 @@ Here are a few projects I'm proud of:
 You can find me on:
 
 - 📧 Email: ask.amitchandra@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/connect-amit-chandra/
-- 🔗 Dev: https://dev.to/amitchandra/
-- HackerRank: https://www.hackerrank.com/profile/amitchandra/
-- Leetcode: https://leetcode.com/Amit-Chandra/
-- Replit: https://replit.com/@Amit-Chandra/
+- 🔗 LinkedIn: [connect-amit-chandra](https://www.linkedin.com/in/connect-amit-chandra/)
+- 🔗 Dev: [amitchandra](https://dev.to/amitchandra/)
+- 🔗 HackerRank: [profile/amitchandra](https://www.hackerrank.com/profile/amitchandra/)
+- 🔗 Leetcode: [Amit-Chandra](https://leetcode.com/Amit-Chandra/)
+- 🔗 Replit: [@Amit-Chandra](https://replit.com/@Amit-Chandra)
 
 Feel free to connect, collaborate, or just say hi. I'm always open to interesting discussions and opportunities!
 
@@ -60,8 +69,8 @@ Feel free to connect, collaborate, or just say hi. I'm always open to interestin
 
 I'm a strong advocate for open source and have contributed to various projects. If you have any interesting open source projects, don't hesitate to reach out. I'd love to collaborate.
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Chandra&show_icons=true&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
-
+<p align="center">
+  <img src="https://github.com/Amit-Chandra/Amit-Chandra/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
 
 Thanks for visiting my GitHub profile! 😊
