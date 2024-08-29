@@ -20,8 +20,8 @@ jobs:
 
       - name: Push to Branch
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "ask.amitchandra@gmail.com"
+          git config --global user.name "Amit Chandra"
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generate snake contribution grid"
           git push origin output
