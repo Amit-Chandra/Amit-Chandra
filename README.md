@@ -57,7 +57,8 @@ Feel free to connect, collaborate, or just say hi. I'm always open to interestin
 
 I'm a strong advocate for open source and have contributed to various projects. If you have any interesting open source projects, don't hesitate to reach out. I'd love to collaborate.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Chandra&show_icons=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-Chandra&show_icons=true&bg_color=0d1117&title_color=ff3860&text_color=ffffff&icon_color=79ff97&border_color=ffffff)
 
 
 Thanks for visiting my GitHub profile! 😊
