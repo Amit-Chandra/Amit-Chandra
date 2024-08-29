@@ -4,7 +4,6 @@ on:
   schedule:
     # Runs every 6 hours
     - cron: "0 */6 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -18,13 +17,15 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: Amit-Chandra
+          outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake Grid to GitHub
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Push to Branch
+        run: |
+          git config --global user.email "ask.amitchandra@gmail.com"
+          git config --global user.name "Amit Chandra"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Generate snake contribution grid"
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
