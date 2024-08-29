@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#ff6347,#ff4500,#ff8c00,#ffa500,#ffd700
+            dist/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#ff6347,#ff4500,#ff8c00,#ffa500,#ffd700&color_dots_empty=black
 
       - name: Verify Generated Files
         run: |
