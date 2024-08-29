@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: Amit-Chandra
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to Branch
         run: |
