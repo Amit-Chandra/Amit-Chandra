@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com?size=24&width=500&lines=Welcome+to+my+GitHub+Profile!" />
+
+
 # Hello, I'm Amit Chandra! 👋
 
 I'm a passionate Python Developer with a love for coding, problem-solving, and continuous learning. Here's a little about me:
