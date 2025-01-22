@@ -23,7 +23,7 @@ I'm a passionate Python Developer with a love for coding, problem-solving, and c
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikit-learn,tensorflow,pytorch,flask,c,html,css,javascript,mysql,aws,dynamodb,mongodb,postgresql,docker,git,&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,flask,c,html,css,javascript,mysql,aws,dynamodb,mongodb,postgresql,docker,git,&theme=dark" alt="Tech Stack" />
 </p>
 
 ## 🌟 GitHub Stats
